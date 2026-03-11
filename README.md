@@ -21,25 +21,20 @@ chmod +x ghostlogin.sh
 ```
 
 ## Screenshots
-
-- Input Validation
+**Input Validation
 The script validates the target input and prevents invalid IP formats or ranges.
-
 ![Input Validation](screenshots/input-validation.png)
 
-- Built-in Credentials
+**Built-in Credentials
 GhostLogin can use a built-in credentials list to test SSH authentication.
-
 ![Built-in Credentials](screenshots/built-in-credentials.png)
 
-- Custom Credentials File
+**Custom Credentials File
 Users can provide a custom credentials file for authentication testing.
-
 ![Custom Credentials](screenshots/custom-credentials.png)
 
-- Proof File Verification
+**Proof File Verification
 Successful access is verified by creating a proof file on the target machine.
-
 ![Proof File](screenshots/proof-file-choice1.png)
 
 ## Disclaimer
