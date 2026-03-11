@@ -18,6 +18,7 @@ Run the script:
 ```bash
 chmod +x ghostlogin.sh
 ./ghostlogin.sh
+```
 
 ## Disclaimer
 This tool was created for educational purposes only and must be used only in authorized environments.
